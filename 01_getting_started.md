@@ -66,3 +66,12 @@ introduction to "freistil IT The Business". You'll find the appointment on your
 Google Calendar.
 
 Meanwhile, join the Slack channels that interest you, and mingle!
+
+
+[1password]: https://freistil.1password.com
+[backblaze]: http://backblaze.com/business-backup
+[chrome]: https://www.google.com/chrome/
+[dotfiles]: https://github.com/freistil/dotfiles
+[laptop]: https://github.com/freistil/laptop
+[skype]: http://www.skype.com
+[slack]: https://freistil.slack.com
