@@ -12,4 +12,5 @@
 * [Your career](career.md)
 * [Software and services](software/README.md)
   * [FreeAgent](software/freeagent.md)
+  * [RescueTime](software/rescuetime.md)
 * [Conclusion](conclusion.md)
