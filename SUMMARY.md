@@ -10,4 +10,5 @@
 	* [Expenses](operations/expenses.md)
 * [Communication](communication.md)
 * [Your career](career.md)
+* [Software and services](software/README.md)
 * [Conclusion](conclusion.md)
