@@ -18,7 +18,7 @@ freistil IT, "working freestyle" means:
 ### Our vision and values
 
 Our long-term strategy is based on the V2MOM model created by Marc Benioff. In
-his book [Behind the Cloud][behind_the_cloud], he talks about the planning
+his book ["Behind the Cloud"][behindthecloud], he talks about the planning
 process he used at Salesforce.com to grow it into the largest SaaS company in
 the world. It consists of the five elements "vision", "values", "methods",
 "obstacles", and "metrics", short "V2MOM". The goal of V2MOM is to create
@@ -30,7 +30,7 @@ alignment from the CEO through to every front-line employee:
 * Obstacles – Things that are working against our success
 * Metrics – Key performance indicators for the right results
 
-[behind_the_clound]: http://www.amazon.com/Behind-Cloud-Salesforce-com-Billion-Dollar-Company/dp/0470521163
+[behindthecloud]: http://www.amazon.com/Behind-Cloud-Salesforce-com-Billion-Dollar-Company/dp/0470521163
 
 A key aspect of V2MOM is that we use this model on every level of the company,
 beginning from a company-wide V2MOM down to the individual team member's V2MOM.
