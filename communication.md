@@ -53,26 +53,26 @@ If you have learned or built something that might also be of interest to custome
 Here we describe common situations and the most appropriate communication
 channel(s) we use to resolve them. When in doubt, use common sense.
 
-**I need to pass non-urgent information to one or more persons and get their feedback**
+**I need to pass non-urgent information to one or more persons and get their feedback.**
 
 * The best place for a short-term, synchronous discussion of a tactical nature is a [Slack](/software/slack.html) channel.
 * For topics that are more of a strategic nature and can be discussed asynchronously: Write a post to a team in [Asana](/software/asana.html).
 * Project management: Leave a comment in the relevant [Asana](/software/asana.html) project/task.
 
-**I need to pass non-urgent information to one or more persons and don't expect feedback**
+**I need to pass non-urgent information to one or more persons and don't expect feedback.**
 
 * Use [Google Docs](/software/googleapps.html) to detail an issue.
 
-**I need to preserve non-urgent email for later search**
+**I need to preserve non-urgent email for later search.**
 
-* Send/forward the email to an archive group in [Google Groups][googleapps.html]. For maximum transparency, we recommend using these archive groups as a BCC recipient in all external email communication.
+* Send/forward the email to an archive group in [Google Groups](software/googleapps.html). For maximum transparency, we recommend using these archive groups as a BCC recipient in all external email communication.
 
-**I need to pass information to one or more persons and get their feedback quickly, e.g. to be able to continue my current work**
+**I need to pass information to one or more persons and get their feedback quickly, e.g. to be able to continue my current work.**
 
 Try these communication channels in order until you can establish a contact:
 [voice/video call](/software/skype.html), [Slack](/software/slack.html) DM.
 
-**I need to get support immediately, e.g. during incident management**
+**I need to get support immediately, e.g. during incident management.**
 
 * Incident management: Create or escalate the incident in PagerDuty, write an "@channel" message in the \#incident channel on [Slack](/software/slack.html).
 
