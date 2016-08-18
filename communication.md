@@ -1,96 +1,51 @@
 ## Communication
 
-In a distributed team, the importance of communication can not be overstated.
-Working together over a distance has its downsides, its most significant a lack
-of information due to under-communication. That's why we encourage you to
-over-share! That's why we encourage you to over-share!
+In a distributed team, the importance of communication can not be overstated. Working together over a distance has its downsides, its most significant a lack of information due to under-communication. That's why we encourage you to over-share! That's why we encourage you to over-share!
 
-_Make an effort to over-communicate. We can filter your stuff but we can't read
-your mind._
+_Make an effort to over-communicate. We can filter your stuff but we can't read your mind._
 
 
 ### Chat
 
-Most of our internal communication, in groups or 1:1, happens on [Slack][slack].
-It works fine in a web browser but we recommend using the native application.
+Most of our internal communication, in groups or 1:1, happens on [Slack](/software/slack.html).
 
 
 ### Teleconferencing
 
-We use [Skype][skype] for face-to-face conversations and team discussions.
+We use [Skype](/software/skype.html) for face-to-face conversations and team discussions.
 
 
 ### Group conversations
 
-In our team, [Asana][asana] team conversations have replaced [Google
-Groups][googlegroups] for written conversation between multiple people. If you'd
-like to discuss a topic in a team or even company-wide, choose the appropriate
-Asana team and click "Team Conversation" right below the team header in the
-sidebar.
+In our team, [Asana](/software/asana.html) team conversations have replaced [Google Groups](/software/googleapps.html) for written conversation between multiple people. If you'd like to discuss a topic in a team or even company-wide, choose the appropriate Asana team and click "Team Conversation" right below the team header in the sidebar.
 
 
 ### Screen sharing
 
-For workstation support and pair programming, [Screenhero][screenhero] is our
-tool of choice. For internal or external presentations, we usually use
-[Skype][skype].
+For workstation support and pair programming, [Screenhero](/software/screenhero.html) is our tool of choice. For internal or external presentations, we usually use [Skype](/software/skype.html).
 
 
 
 ### Email
 
-External communication still happens mostly over email, and we use [Google
-Mail][googlemail] and [Google Groups][googlegroups] here.
+External communication still happens mostly over email, and we use [Google Mail](software/googleapps.html) and [Google Groups](software/googleapps.html).
 
-Please use the following email signature, at least in outbound messages:
-
-```plain
-freistil IT Ltd. | http://www.freistil.it
-+353 1901 2642 | +49 761 45895590
-freistil IT Ltd, 13 Upper Baggot Street, 2nd Floor, Dublin 4, D04 W7K5
-Company number: 532004
-VAT ID: IE3227412SH
-```
-
-We use [Google Groups][googlegroups] as shared mailboxes. There are these
-different categories of groups:
-
-* _Public inboxes_ for inbound email to certain business functions. They're simply
-  named with their function, for example `jobs@freistil.it`. In most cases,
-  these addresses forward email to our Help Center where they create a new
-  support request ticket.
-* _Team groups_ to address a whole team. They're named with "-team" added to the
-  team name, for example `beancounter-team@freistil.it`. If you work with a
-  certain team, you should join its group.
-* _Bot groups_ for automated email. They're named with "-bot" added to the team
-  name. The address `beancounter-bot@freistil.it`, for example, would be set up
-  to receive notifications from accounting software and payment services. If you
-  take care of services that send such notifications, you should join the
-  corresponding bot group.
-* _Archive groups_ for documentation purposes. If you're sending outbound email,
-  you should always CC or BCC an archive group. They're named with "-archive"
-  added to the team name, for example "beancounter-archive@freistil.it".
 
 
 ### Sharing results
 
 In a Results-Only Work Environment, one of the most important things is
-communicating your results to your team. With the help of
-[IDoneThis][idonethis], you can easily share your progress, thoughts and
-experiences. Simply add short entries to your work journal and they will be
-included in the daily summary that IDoneThis sends to the team each morning.
+communicating your results to your team. In the \#done channel on [Slack](/software/slack.html), you can easily share your progress, thoughts and
+experiences. You can use DIRECT as a mnemonic for what you could write about:
 
-There's a multitude of ways to add entries to your IDoneThis list:
+* __Decisions:__ Did you make a choice that will affect others on the team?
+* __Insights:__ Have you learned something new and interesting?
+* __Results:__ Did you reach an important objective?
+* __Emotions:__ Is there something that's making you happy? Sad?
+* __Contacts:__ Did you get in touch with someone who could influence our business?
+* __Troubles:__ Did you encounter an issue with which you could use some help?
 
-* Enter your entries right on the [IDoneThis website][idonethis].
-* Use the `/done` slash command in [Slack][slack] to add new entries to your
-  journal. They'll automatically be posted to the \#done channel.
-* Send an [email to IDoneThis](mailto:freistil-it-1@team.idonethis.com)
-  and each line in the email body will be added as a separate journal entry.
-
-If you have learned or built something that might even be of interest to other
-professionals outside the company, consider writing an article about it on
-our company blog!
+If you have learned or built something that might also be of interest to customers or other professionals outside the company, consider writing an article about it on our company blog!
 
 
 ### Choosing the right communication channel
@@ -98,45 +53,33 @@ our company blog!
 Here we describe common situations and the most appropriate communication
 channel(s) we use to resolve them. When in doubt, use common sense.
 
-**I need to pass non-urgent information to one or more persons and get their
-feedback**
+**I need to pass non-urgent information to one or more persons and get their feedback**
 
-* The best place for a short-term, synchronous discussion of a tactical nature
-  is a [Slack][slack] channel.
-* For topics that are more of a strategic nature and can be discussed
-  asynchronously: Write a post to a team in [Asana][asana].
-* Project management: Leave a comment in the relevant [Asana][asana]
-  project/task.
+* The best place for a short-term, synchronous discussion of a tactical nature is a [Slack](/software/slack.html) channel.
+* For topics that are more of a strategic nature and can be discussed asynchronously: Write a post to a team in [Asana](/software/asana.html).
+* Project management: Leave a comment in the relevant [Asana](/software/asana.html) project/task.
 
-**I need to pass non-urgent information to one or more persons and don't expect
-feedback**
+**I need to pass non-urgent information to one or more persons and don't expect feedback**
 
-* Write down work results, ideas, concerns etc. in [IDoneThis][idonethis].
-* Use [Google Docs][googledocs] to document an issue in a structured way.
+* Use [Google Docs](/software/googleapps.html) to detail an issue.
 
 **I need to preserve non-urgent email for later search**
 
-* Send/forward the email to an archive group in [Google Groups][googlegroups].
-  For maximum transparency, we recommend using these archive groups as a BCC
-  recipient in all external email communication.
+* Send/forward the email to an archive group in [Google Groups][googleapps.html]. For maximum transparency, we recommend using these archive groups as a BCC recipient in all external email communication.
 
-**I need to pass information to one or more persons and get their feedback
-quickly, e.g. to be able to continue my current work**
+**I need to pass information to one or more persons and get their feedback quickly, e.g. to be able to continue my current work**
 
 Try these communication channels in order until you can establish a contact:
-[voice/video call][skype], [Slack][slack] DM.
+[voice/video call](/software/skype.html), [Slack](/software/slack.html) DM.
 
 **I need to get support immediately, e.g. during incident management**
 
-* Incident management: Create or escalate the incident in PagerDuty, write an
-  "@channel" message in the \#incident channel on [Slack][slack].
+* Incident management: Create or escalate the incident in PagerDuty, write an "@channel" message in the \#incident channel on [Slack](/software/slack.html).
 
 
 ### Town Hall meeting
 
-Once a week, we have a [Skype][skype] call that everyone in the company is
-expected to attend, our "Town Hall". This call has the purpose of getting the
-whole team up-to-date with everything that's relevant:
+Once a week, we have a [Skype][skype] call that everyone in the company is expected to attend, our "Town Hall". This call has the purpose of getting the whole team up-to-date with everything that's relevant:
 
 * State of the business
 * Important events
@@ -145,9 +88,7 @@ whole team up-to-date with everything that's relevant:
   * Employee birthdays, anniversaries or other news
 * Recent achievements
 
-You can find the agenda for upcoming Town Halls on Asana and we encourage you to
-add your own agenda items that you find relevant to the company. We encourage
-everyone to also add relevant FYI items, e.g. plans for a longer vacation.
+You can find the agenda for upcoming Town Halls on Asana and we encourage you to add your own agenda items that you find relevant to the company. We encourage everyone to also add relevant FYI items, e.g. plans for a longer vacation.
 
 
 ### Other meetings
@@ -176,24 +117,3 @@ these rules for team discussions:
 1. Agree to action items, if there are any, at the conclusion of the discussion.
 1. Don't feel bad about calling people out on any of the above; it's the right
    thing to do!
-
-
-### Calendar
-
-For scheduling appointments, we use [Google Calendar][googlecalendar].
-
-
-### Task management
-
-Each of us usually has a long list of open tasks.  [Asana][asana] helps us to
-manage them.
-
-
-### Customer support
-
-We use [Zendesk][zendesk] to manage support requests from our customers.
-
-
-### Documents and storage
-
-For creating text documents and spreadsheets, we use [Google Docs][googledocs].
