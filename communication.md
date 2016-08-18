@@ -79,7 +79,7 @@ Try these communication channels in order until you can establish a contact:
 
 ### Town Hall meeting
 
-Once a week, we have a [Skype][skype] call that everyone in the company is expected to attend, our "Town Hall". This call has the purpose of getting the whole team up-to-date with everything that's relevant:
+Once a week, we have a [Skype](/software/skype.html) call that everyone in the company is expected to attend, our "Town Hall". This call has the purpose of getting the whole team up-to-date with everything that's relevant:
 
 * State of the business
 * Important events
