@@ -41,8 +41,9 @@ Here's our company-wide V2MOM. A V2MOM is never set in stone; it needs to underg
 
 **Methods**
 
-1. Build the team.
-2. Solve the DevOps problems of our customers.
+1. Developing our team
+2. Solving the DevOps problems of our customers
+3. Tracking our results on a regular basis
 
 **Obstacles**
 
@@ -52,11 +53,11 @@ Here's our company-wide V2MOM. A V2MOM is never set in stone; it needs to underg
 **Metrics**
 
 1. Recurring revenue
-2. Team engagement
+2. Objectives and Key Results
 
 
 ### We are a ROWE
 
 The central concept in our approach to work is called "Results-Only Work Environment", short ROWE.
 
-In many other companies, employees are expected get to the office in the morning and stay there for about 8 hours. Apparently, this even is important enough for them to put systems in place that tally work time by the minute, and have managers make sure everyone follows the rules. We don't care if you put in the necessary hours during daytime or at night, if you prefer to work in bigger chunks of time or in many smaller ones. From our point of view, time spent in the office is not a metric for productivity, and counting butts in chairs is not a management task. Work is about achieving results and helping employees in this is the best thing a manager can do. That's why the talks with your manager will be mostly about the results you are going to produce, and how the company can support you with that.
+In many other companies, employees are expected get to the office in the morning and stay there for about 8 hours. Apparently, this even is important enough for them to put systems in place that tally work time by the minute, and have managers make sure everyone follows the rules. We don't care if you put in the necessary hours during daytime or at night, if you prefer to work in bigger chunks of time or in many smaller ones. From our point of view, time spent in the office is not a metric for productivity, and counting butts in chairs is not a management task. Work is about achieving results and helping employees in this is the best thing a manager can do. That's why many talks in your team will be about Objectives and Key Results (OKR).
