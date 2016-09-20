@@ -6,6 +6,7 @@
   * [Objectives and Key Results](operations/okr.md)
   * [Project management](operations/project_management.md)
   * [Time tracking](operations/time_tracking.md)
+  * [Vacations](operations/vacation.md)
   * [Customer support](operations/support.md)
   * [Bills](operations/bills.md)
   * [Purchases](operations/purchases.md)
