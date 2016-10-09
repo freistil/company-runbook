@@ -71,4 +71,3 @@ By doing this on a regular basis, we learn. And sometimes, these learnings may g
 
 * [How Google sets goals](https://www.youtube.com/watch?v=mJB83EZtAjc)
 * [All About OKRs: How to Set Them, Achieve Them, and Track Them](http://blog.trello.com/okrs-set-achieve-track-trello/)
-* 
