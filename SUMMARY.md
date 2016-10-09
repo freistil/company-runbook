@@ -12,6 +12,7 @@
   * [Purchases](operations/purchases.md)
   * [Expenses](operations/expenses.md)
   * [Archival](operations/archival.md)
+  * [Onboarding](operations/onboarding.md)
 * [Communication](communication.md)
 * [Your career](career.md)
 * [Software and services](software/README.md)
