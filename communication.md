@@ -34,24 +34,25 @@ External communication still happens mostly over email, and we use [Google Mail]
 
 ### Sharing results
 
-In a Results-Only Work Environment, one of the most important things is
-communicating your results to your team. In the \#done channel on [Slack](/software/slack.html), you can easily share your progress, thoughts and
-experiences. You can use DIRECT as a mnemonic for what you could write about:
+In a Results-Only Work Environment, one of the most important things is communicating your results to your team. In the \#done channel on [Slack](/software/slack.html), you can easily share your progress, thoughts and experiences.
 
-* __Decisions:__ Did you make a choice that will affect others on the team?
-* __Insights:__ Have you learned something new and interesting?
-* __Results:__ Did you reach an important objective?
-* __Emotions:__ Is there something that's making you happy? Sad?
-* __Contacts:__ Did you get in touch with someone who could influence our business?
-* __Troubles:__ Did you encounter an issue with which you could use some help?
+You can use DIRECT as a mnemonic for things to write about:
 
-If you have learned or built something that might also be of interest to customers or other professionals outside the company, consider writing an article about it on our company blog!
+* __Decision:__ Did you make a choice that will affect others on the team?
+* __Insight:__ Have you learned something new?
+* __Result:__ Did you reach an important objective?
+* __Emotion:__ Is there something that's making you happy? Sad?
+* __Contact:__ Did you get in touch with someone who could influence our business?
+* __Trouble:__ Do you have an issue you could use some help with?
+
+We highly encourage responding to results posted by teammates. To keep the \#done channel clean, we only ask you to limit your in-channel reactions to emoji. If you'd like to answer to a post, use the "Share message" function and choose another appropriate channel.
+
+BTW: If you have learned or built something that might also be of interest to customers or other professionals outside the company, consider writing a blog post!
 
 
-### Choosing the right communication channel
+### Choosing the right communication medium
 
-Here we describe common situations and the most appropriate communication
-channel(s) we use to resolve them. When in doubt, use common sense.
+Here we describe common situations and the most appropriate medium we use to resolve them. _When in doubt, use common sense._
 
 **I need to pass non-urgent information to one or more persons and get their feedback.**
 
