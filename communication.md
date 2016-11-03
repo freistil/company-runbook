@@ -12,7 +12,7 @@ Most of our internal communication, in groups or 1:1, happens on [Slack](/softwa
 
 ### Teleconferencing
 
-We use [Skype](/software/skype.html) for face-to-face conversations and team discussions.
+We use [Sococo](/software/sococo.html) for face-to-face conversations and team discussions.
 
 
 ### Group conversations
