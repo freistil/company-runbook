@@ -2,12 +2,19 @@
 
 [Sococo](https://www.sococo.com) is an unusual teleconferencing service that "recreates the personal proximity and functionality of a physical office in an online experience". In other words, it's an actual virtual office that visualises the presence of our team and allows audio and video calls in different "meeting rooms".
 
+Sococo runs in Google Chrome and in the standalone Sococo app.
+
 
 ## Rooms
 
 When we're not in one of the meeting rooms for a video call, we usually gather in "Coworking". This is where we put our avatars while we're working on our individual tasks. Starting calls in "Coworking" will disrupt the focus of everyone in the room and is therefore frowned upon.
 
 Most of us use the "Lounge" to signal that we're taking a break. It's okay to start a casual chat here.
+
+
+## Going off work
+
+If you're calling it a day or at least are going to be away from your desk for a longer time, make sure to leave the virtual office (e.g. by closing the Sococo app). That way, the team will know that you're not available anymore.
 
 
 ## Working with an "office window"
