@@ -1,26 +1,31 @@
-### Customer support
+# Customer support
 
 We use different services to provide support requests from our customers.
 
-12x5 response (Mon-Fri 08:00 to 20:00 CET)
+* 12x5 response (Mon-Fri 08:00 to 20:00 CET)
+* 24x7 response with Enterprise SLA
 
-24x7 response with Enterprise SLA
+## Response times
 
-Response times
+See also: http://www.freistilbox.com/support/hosting-support.html
 
-http://www.freistilbox.com/support/hosting-support.html
-
-Urgent  Production application is completely down or unusable  30 minutes
-High  Production application is up, but is negatively impacted  4 hours
-Normal  General support requests  1 business day
-Low  Questions, requests and suggestions  3 business days
+| Priority | Situation                                                | First response time |
+| -------- | -------------------------------------------------------- | ------------------- |
+| Urgent   | Production application is completely down or unusable    | 30 minutes          |
+| High     | Production application is up, but is negatively impacted | 4 hours             |
+| Normal   | General support requests                                 | 1 business day      |
+| Low      | Questions, requests and suggestions                      | 3 business days     |
 
 Support requests received outside of our office hours are automatically
 forwarded to an on-call support agent who gives you immediate feedback how we
 are going to handle them.
 
 
-#### [Zendesk](/software/zendesk)
+## Support channels
+
+### Ticket system
+
+See also: [Zendesk](/software/zendesk)
 
 Tickets get created by sending email to info@, support@, backoffice@, hosting@ 
 and using the support contact form in our dashboard.
@@ -32,18 +37,20 @@ ensure this.
 We tag tickets with the cluster and the website to make it easier to reference
 the related system.
 
-#### Chat integrated in our [dashboard](https://dashboard.freistilbox.com)
+### Web chat
+
+Intercom chat integrated into the [freistilbox Dashboard](https://dashboard.freistilbox.com)
 
 For simple easy to resolve issues. Others get forwarded to our ticket system.
 We get notified in Slack about incoming chat requests. Additionally the 
 oncall support engineer gets a PagerDuty notification during business hours.
 
-If a request is not handled the chat system sets up email replies so the 
+If a request is not handled, the chat system sets up email replies so the 
 conversation can be handled asynchronously as well.
 
 
-#### Telephone
+### Phone
 
 Emergencies
-Mailbox -> On Call engineer notification around the clock.
 
+Mailbox -> On Call engineer notification around the clock.
