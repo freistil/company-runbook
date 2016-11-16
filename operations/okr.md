@@ -1,4 +1,4 @@
-## Objectives and Key Results
+# Objectives and Key Results
 
 >"Many people fail in life, not for lack of ability or brains or even courage, but simply because they have never organised their energies around a goal."  
 >— Elbert Hubbard

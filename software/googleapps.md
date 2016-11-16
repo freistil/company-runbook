@@ -1,6 +1,6 @@
-## Google Apps
+# Google Apps
 
-### GMail
+## GMail
 
 Please use the following email signature, at least in outbound messages:
 
@@ -12,9 +12,9 @@ Company number: 532004
 VAT ID: IE3227412SH
 ```
 
-### Google Calendar
+## Google Calendar
 
-### Google Groups
+## Google Groups
 
 We use Google Groups as shared mailboxes. There are these different categories of groups:
 
