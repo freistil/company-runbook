@@ -1,4 +1,4 @@
-### Time tracking
+# Time tracking
 
 When you're in flow, it's easy to lose track of time. "Where did the last few hours go?"
 

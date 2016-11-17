@@ -1,7 +1,7 @@
-## Intercom
+# Intercom
 
 Intercom is our communications hub for freistilbox users.
 
-### Chat
+## Chat
 
-### Messaging
+## Messaging
