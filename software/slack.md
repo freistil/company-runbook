@@ -1,4 +1,4 @@
-## Slack
+# Slack
 
 Our team chat is on [https://freistil.slack.com](https://freistil.slack.com).
 
