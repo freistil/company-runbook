@@ -125,4 +125,4 @@ Once a week, we have a company-wide video call called "Town Hall". This call has
   * Changes to processes
   * Employee birthdays, anniversaries and other news
 
-Town Hall is also a great opportunity to ask questions and announce things that are relevant for the whole company. You can find the agenda for upcoming Town Halls on Asana and we encourage you to add your own agenda items.
+Town Hall is also a great opportunity to ask questions and announce things that are relevant for the whole company. You can find the [agenda](http://f7it.com/f7townhall) for upcoming Town Halls on Asana, and we encourage you to add your own agenda items!
