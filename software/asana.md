@@ -3,6 +3,11 @@
 We use Asana for task and project management as well as for team discussions.
 
 
+## Due dates
+
+We don't have a workflow in place that would catch orphaned overdue tasks. So, if a task has a due date, make sure it also is assigned to a person.
+
+
 ## Template projects
 
 In order to simplify the creation of projects for recurring things (event planning, order processing etc.), we use project templates — Asana projects that start with "(T)". To use a template for a new task, simply use the "Copy project (Use as a template)" feature. Don't forget to give the newly created project a proper name.
