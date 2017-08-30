@@ -31,7 +31,7 @@ You have excellent teamwork skills, and provide guidance and mentoring to other 
 _Career advancement: Principal Engineer_
 
 
-## 3 - Principal Engineer
+## Principal Engineer
 
 You have consistently had major success during your participation in all aspects of small and large projects and have been essential to those projects’ successes. You have a track record of consistently rendering clear technical judgment and routinely consider architecture-level and project-planning issues. 
 
@@ -46,7 +46,7 @@ You collaborate effectively with your manager and other areas of the business. Y
 _Career advancement: Lead Engineer or Manager Web Operations (TBD)_
 
 
-## 4 - Lead Engineer
+## Lead Engineer
 
 You have been critical to shipping a world-class product. You take total ownership for all aspects of your project and make many unique contributions. Your decisions have a significant impact on the profitability and overall well-being of the business.
 
