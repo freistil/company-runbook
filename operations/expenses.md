@@ -1,4 +1,4 @@
-### Expenses
+# Expenses
 
 We'll refund you for all valid company expenses you paid out of your own pocket. For certain kinds of expenses, we've defined limits; please check back with Backoffice when in doubt.
 

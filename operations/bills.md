@@ -1,4 +1,4 @@
-## Bills
+# Bills
 
 Please make sure that invoices are addressed to
 

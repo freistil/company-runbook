@@ -1,4 +1,4 @@
-## Purchase requests
+# Purchase requests
 
 If you'd like the company to purchase something for you, please add it to the "Purchase Requests" project in Asana. After management approval, we'll get it delivered right to you.
 
