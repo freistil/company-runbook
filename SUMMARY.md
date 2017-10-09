@@ -18,6 +18,7 @@
   * [Salary](career/salary.md)
   * [Perks and benefits](career/perks.md)
   * [Career advancement](career/career_ladder.md)
+  * [Internships](career/internships.md)
 * [Software and services](software/README.md)
   * [Asana](software/asana.md)
   * [Calendly](software/calendly.md)
