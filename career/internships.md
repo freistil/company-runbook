@@ -6,7 +6,7 @@ If you’re starting with us as an intern, welcome! This section will help you m
 
 ## How you fit in
 
-Interns are as much part of our team as everyone else. That means that our general approaches to business and collaboration apply to you in the same way, first and foremost our [guiding principles].
+Interns are as much part of our team as everyone else. That means that our general approaches to business and collaboration apply to you in the same way, first and foremost our [guiding principles](/guiding_principles.html).
 
 **The person responsible for making your internship a success is you. We’re here to provide you with an environment in which you can be successful.**
 
@@ -27,7 +27,7 @@ Apart from the fact that you’re free to reach out to any team member, your men
 
 Usually, your mentor will have a daily time slot reserved for you. Make good use of this time slot by preparing all the questions and issues you’d like to discuss; ideally you send them this list in advance of your meeting. 
 
-Additionally, we have a dedicated Slack channel named #internship where you will communicate with your mentor and other team members. As described in our [communication guidelines], this doesn’t necessarily mean people will be able to answer immediately. If you do have to get someone’s attention quickly, try an @mention. However, be considerate; we all try to apply the same focus to our work that you expect from us with regard to your own matters.
+Additionally, we have a dedicated Slack channel named #internship where you will communicate with your mentor and other team members. As described in our [communication guidelines](/communication.html), this doesn’t necessarily mean people will be able to answer immediately. If you do have to get someone’s attention quickly, try an @mention. However, be considerate; we all try to apply the same focus to our work that you expect from us with regard to your own matters.
 
 ## Internship schedule
 
