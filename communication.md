@@ -39,7 +39,7 @@ Like a lot of companies with remote workers, we found that we need rules and con
 
 Most of our internal communication happens on [Slack](/software/slack.html). It lives up to its promise of eliminating a great deal of email, mostly thanks to the simple separation of topics into channels and the many integrations with external services. 
 
-On topics of importance, we prefer asynchronous communication in the context of the particular topic over just starting a chat conversation. We used to use [Google Groups](/software/googleapps.html) for this but have since moved on to [Asana](/software/asana.html). 
+On topics of importance, we prefer asynchronous communication in the context of the particular topic over just starting a chat conversation. We used to use [Google Groups](/software/googleapps.html) and [Asana](/software/asana.html) for this but have since moved on to [Discourse](/software/discourse.html). 
 
 We use [Slack](/software/slack.html) for internal face-to-face conversations and team discussions as well. Compared to other solutions, we found that Slack offers the best audio quality; it even deals well with multiple people speaking at the same time.
 
@@ -96,11 +96,11 @@ Here we describe common situations and the most appropriate medium we use to res
 **I need to pass non-urgent information to one or more persons and don't expect feedback.**
 
 * If the information is of a short-lived nature, post it to a Slack channel. See also the "Status updates" section.
-* Otherwise post it to a Team Conversation in Asana.
+* Otherwise post it to a Team Conversation in [Discourse](/software/discourse.html).
 
 **I need to pass non-urgent information to one or more persons and get their feedback.**
 
-* General: Start a Team Conversation in [Asana](/software/asana.html).
+* General: Start a Team Conversation in [Discourse](/software/discourse.html).
 * In the context of a project: Leave a comment in the relevant [Asana](/software/asana.html) project/task.
 
 **I need to pass information to one or more persons and get their feedback quickly.**
@@ -125,4 +125,4 @@ Once a week, we have a company-wide video call called "Town Hall". This call has
   * Changes to processes
   * Employee birthdays, anniversaries and other news
 
-Town Hall is also a great opportunity to ask questions and announce things that are relevant for the whole company. You can find the [agenda](http://f7it.com/f7townhall) for upcoming Town Halls on Asana, and we encourage you to add your own agenda items!
+Town Hall is also a great opportunity to ask questions and announce things that are relevant for the whole company. You can find the [agenda](http://f7it.com/f7townhall) for upcoming Town Halls on [Asana](/software/asana.html), and we encourage you to add your own agenda items!

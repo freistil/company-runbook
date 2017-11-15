@@ -1,6 +1,6 @@
 # Asana
 
-We use Asana for task and project management as well as for team discussions.
+We use Asana for task and project management.
 
 
 ## Due dates
