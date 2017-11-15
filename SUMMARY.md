@@ -22,6 +22,7 @@
 * [Software and services](software/README.md)
   * [Asana](software/asana.md)
   * [Calendly](software/calendly.md)
+  * [Discourse](software/discourse.md)
   * [FreeAgent](software/freeagent.md)
   * [Intercom](software/intercom.md)
   * [Google Apps](software/googleapps.md)
