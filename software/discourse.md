@@ -20,4 +20,3 @@ Watch any categories you like/will likely need for your work.
 * Refrain from using humor/sarcasm/trolling in discourse discussions as this can quickly derail the conversation in progress.
 * When abstracting anothers argument use the quote function to reproduce the argument you are abstracting, so as to avoid accidentally [strawmanning](https://en.wikipedia.org/wiki/Straw_man) their argument.
 * Present [well structured arguments](http://www.ucs.mun.ca/~alatus/phil1200/CT1StructureofArguments.html), to make it easy for others to follow and address your argument.
-* You might want to gain an understanding 
