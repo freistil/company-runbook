@@ -14,7 +14,7 @@ Watch any categories you like/will likely need for your work.
 
 ## How to have a good discourse discussion
 
-* To clearly separate concerns, create a new topic rather than highjacking an existing one.
+* To clearly separate concerns, create a new topic rather than hijacking an existing one.
 * Put your topic in the appropriate category and apply helpful tags.
 * Take enough time to formulate your topic/reply, as it is more important for your text to be understandable and complete than to be available quickly.
 * Refrain from using humor/sarcasm/trolling in discourse discussions as this can quickly derail the conversation in progress.
