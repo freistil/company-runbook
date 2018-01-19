@@ -44,7 +44,7 @@ When someone encounters an issue that stops their work and that they can't resol
 
 Finishing work is our main objective. That's why we only put a work item on the back burner if we have to. Incidents are one of the few causes to do so.
 
-Sometimes work a work item has to wait for a certain event like customer approval or a scheduled maintenance window. In that case we pull it into the "Waiting" section. Scheduled maintenance times are another example.
+Sometimes a work item has to wait for a certain event like customer approval or a scheduled maintenance window. In that case we pull it into the "Waiting" section. Scheduled maintenance times are another example.
 
 The important difference to blocked cards is that waiting cards need an external event to happen that nobody on the team can influence.
 
