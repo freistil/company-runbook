@@ -7,9 +7,11 @@ In this section, we describe the way we keep our ops work in flow. You can find 
 
 ## Visualising work
 
-As explained in the blog series mentioned above, visualising work is essential to keep our focus on it until it's finished. The method we chose to implement this is a kanban board on LeanKit.com. It's divided into several lanes from left to right that model the journey from "planned" to "completed". Some lanes are also divided horizontally to allow for more specific display of a work item's status.
+As explained in the blog series mentioned above, visualising work is essential to keep our focus on it until it's finished. The method we chose to implement this is a [kanban board](https://freistil.leankit.com/board/431227535) on LeanKit.com. It's divided into several lanes from left to right that model the journey from "planned" to "completed". Some lanes are also divided horizontally to allow for more specific display of a work item's status.
 
-Work items travel across the WIP board in the form of cards. In order to keep our flow at a steady pace, we're aiming at a certain size for each work item. We express this size as "Can be done until end of the day tomorrow." In other words, a work item should not take more than a few hours; otherwise it's better to try and split it into multiple items.
+![](/images/wip_board.png)
+
+Work items travel across the WIP board in the form of cards. Cards can have different types, e.g. "production issue" or "technical debt". In order to keep our flow at a steady pace, we're aiming at a certain size for each work item. We express this size as "Can be done until end of the day tomorrow." In other words, a work item should not take more than a few hours; otherwise it's better to try and split it into multiple items.
 
 At the top of the board, there's a section named "Projects" containing cards that don't represent work items but our current main projects. These cards have the actual work item cards connected as children. That way they can display the current project progress, e.g. "3 of 7".
 
