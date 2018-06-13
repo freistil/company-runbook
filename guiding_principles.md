@@ -8,6 +8,13 @@ freistil IT, "working freestyle" means:
 * __We work in a Results-Only Work Environment.__ We all share the responsibility for the success of our company, and success only comes from results that drive the business forward. In a ROWE, time spent in an office chair is not an adequate management metric. It's only the results that count. (More on this below.)
 
 
+### Remote only
+
+We're a 100% distributed team and Gitlab's [Remote
+only](https://www.remoteonly.org/) website provides a good summary of the
+goals and practices we're aiming at.
+
+
 ### Our vision and values
 
 Our long-term strategy is based on the V2MOM model created by Marc Benioff. In his book ["Behind the Cloud"][behindthecloud], he talks about the planning process he used to grow Salesforce.com to the world's largest SaaS company. It has five elements, "Vision", "Values", "Methods", "Obstacles", and "Metrics", short "V2MOM". The goal of V2MOM is to create alignment from the CEO through to every front-line employee.
