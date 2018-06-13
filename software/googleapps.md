@@ -8,8 +8,8 @@ Please use the following email signature, at least in outbound messages:
 
 ```plain
 freistil IT Ltd | http://www.freistil.it
-+353 1901 2642 | +49 761 45895590
-13 Upper Baggot Street, 2nd Floor, Dublin D04 W7K5
++353 1901 2642
+13 Upper Baggot Street, 2nd Floor, Dublin D04 W7K5, Ireland
 Company number: 532004
 VAT ID: IE3227412SH
 ```
